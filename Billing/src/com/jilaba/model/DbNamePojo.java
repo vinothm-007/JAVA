@@ -1,5 +1,4 @@
 package com.jilaba.model;
-//
 public class DbNamePojo {
 
 	private String compid,masterdb,trandb,stockdb,schemedb;
